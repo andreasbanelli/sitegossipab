@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Voilà le site gossip, impossible pour moi de le push sur herokun alors que c'était le cas au début,et qu'il n'y a pas eu de soucis pour le premier site. 
 
-Things you may want to cover:
+Du coup vous pouvez cloner ce repo, faire un bundle install. 
+Ensuite, aller dans le dossier et faites : ```raails server```
+aller à l'url : http://localhost:3000/ 
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+désolé pour Heroku, mais après y avoir passé 2 heures, je me suis dit que github était déjà un bon début au lieu de casser mon ordi. 
